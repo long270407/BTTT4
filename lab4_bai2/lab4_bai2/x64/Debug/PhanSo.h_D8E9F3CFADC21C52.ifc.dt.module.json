@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab4_bai2\\x64\\Debug\\PhanSo.obj",
+            "outputs": [
+                "lab4_bai2\\x64\\Debug\\PhanSo.h_D8E9F3CFADC21C52.ifc.dt.module.json",
+                "lab4_bai2\\x64\\Debug\\PhanSo.h_D8E9F3CFADC21C52.ifc.dt.d.json",
+                "lab4_bai2\\x64\\Debug\\PhanSo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\c++\\lab4_bai2\\PhanSo.h",
+                    "source-path": "c:\\c++\\lab4_bai2\\phanso.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
